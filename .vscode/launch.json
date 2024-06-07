@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApifestivosApplication<apifestivos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "apifestivos.apifestivos.ApifestivosApplication",
+            "projectName": "apifestivos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
